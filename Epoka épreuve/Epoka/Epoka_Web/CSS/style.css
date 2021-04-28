@@ -1,0 +1,19 @@
+body {background-color: #595959;}
+
+input[type=text] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 1px;
+  border-bottom: 2px solid #d9d9d9;
+}
+
+input[type=password] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 1px;
+  border-bottom: 2px solid #d9d9d9;
+}
